@@ -12,6 +12,7 @@ body {
 .div-1 {
     background-color: #666666;
     padding: 20px;
-    border: 1px solid red;
+    margin: 10px;
+    border: 20px solid red;
     height: 200px;
 }
